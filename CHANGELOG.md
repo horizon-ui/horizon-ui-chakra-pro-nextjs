@@ -1,5 +1,8 @@
 # Changelog
 
+## [2.1.1] 2023-04-04
+### Bugs fixing - Sidebar bug (multiple links looked active) fixed
+
 ## [2.1.0] 2023-03-16
 ### Bugs fixing - Fixed ‘npm install’ error”
 
@@ -17,4 +20,4 @@
 
 ## [1.0.0] 2022-10-17
 ### Official Release
-Added TypeScript & NextJS!
+Added TypeScript & NextJS
