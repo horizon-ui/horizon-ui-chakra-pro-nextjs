@@ -1,5 +1,8 @@
 # Changelog
 
+## [2.2.0] 2023-05-04
+### Bugs fixing - Hydration errors fixed
+
 ## [2.1.1] 2023-04-04
 ### Bugs fixing - Sidebar bug (multiple links looked active) fixed
 
