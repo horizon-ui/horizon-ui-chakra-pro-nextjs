@@ -1,5 +1,8 @@
 # Changelog
 
+## [2.2.1] 2023-05-10
+### Bugs fixing - Pseudo-classes styles fixed
+
 ## [2.2.0] 2023-05-04
 ### Bugs fixing - Hydration errors fixed
 
