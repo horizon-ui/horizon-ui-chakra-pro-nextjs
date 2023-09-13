@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.4.0] 2023-09-13
+
+### Bugs fixing - Dark mode bug solved
+
 ## [2.3.0] 2023-07-26
 
 ### Huge Update: v2.3.0
