@@ -1,5 +1,11 @@
 # Changelog
 
+## [2.5.0] 2023-10-23
+
+### Kanban fully updated
+
+- 🟢 Added the new Kanban
+
 ## [2.4.0] 2023-09-13
 
 ### Bugs fixing - Dark mode bug solved
