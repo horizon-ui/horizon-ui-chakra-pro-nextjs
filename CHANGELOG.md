@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.6.1] 2023-12-14
+
+### Modal bugs fixed
+
+## [2.6.0] 2023-12-13
+
+### Calendar Plugin fixed
+
+- Calendar Plugin fixed
+
 ## [2.5.0] 2023-10-23
 
 ### Kanban fully updated
