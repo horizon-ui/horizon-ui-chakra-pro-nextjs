@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.6.2] 2023-12-14
+
+### Sidebar fixed
+
 ## [2.6.1] 2023-12-14
 
 ### Modal bugs fixed
