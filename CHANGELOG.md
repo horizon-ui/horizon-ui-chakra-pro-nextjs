@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.8.1] 2024-06-10
+
+### Temporary @ts tag for scrollbar.
+
+## [2.8.0] 2024-05-30
+
+### Vulnerabilities removed
+
+## [2.7.0] 2024-02-06
+
+### NextJS 14
+
 ## [2.6.2] 2023-12-14
 
 ### Sidebar fixed
